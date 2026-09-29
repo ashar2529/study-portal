@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Measurements 01",
+    "youtube": "https://www.youtube.com/watch?v=3GD0fKVbzbY",
+    "topics": [
+      "Dimensional Analysis"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Measurements 02",
+    "youtube": "https://www.youtube.com/watch?v=XOC6gnINdm0",
+    "topics": [
+      "Dimensional Analysis",
+      "Significant Figures"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Measurements 03",
+    "youtube": "https://www.youtube.com/watch?v=pgeYAzk5-f4",
+    "topics": [
+      "Significant Figures",
+      "Error & Uncertainty Calculation"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Measurements 04",
+    "youtube": "https://www.youtube.com/watch?v=5A7EPpZtaxI",
+    "topics": [
+      "Error & Uncertainty Calculation"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Vectors 01",
+    "youtube": "https://www.youtube.com/watch?v=Zov5VIr3Tnk",
+    "topics": [
+      "Basic Concepts & Types of Vectors",
+      "Vector Addition"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Vectors 02",
+    "youtube": "https://www.youtube.com/watch?v=24IBvRZNjLg",
+    "topics": [
+      "Vector Multiplication (Dot Product)",
+      "Vector Multiplication (Cross Product)"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Kinematics (Motion in 1D) 01",
+    "youtube": "https://www.youtube.com/watch?v=wcAPCgCKQz4",
+    "topics": [
+      "Distance & Displacement",
+      "Speed & Velocity"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Kinematics (Motion in 1D) 02",
+    "youtube": "https://www.youtube.com/watch?v=uplh4aMOJBw",
+    "topics": [
+      "Acceleration",
+      "Equations of Motion",
+      "Free Fall Motion",
+      "Graphs in Kinematics",
+      "Relative Velocity"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Projectile Motion (2D Motion) 01",
+    "youtube": "https://www.youtube.com/watch?v=-3aczwACdMk",
+    "topics": [
+      "Oblique Projectile",
+      "Horizontal Projection"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Work, Power, Energy 01",
+    "youtube": "https://www.youtube.com/watch?v=07f6Bvct_ss",
+    "topics": [
+      "Work"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Work, Power, Energy 02A",
+    "youtube": "https://www.youtube.com/watch?v=52wPDXWkDRk",
+    "topics": [
+      "Work",
+      "Conservative Field"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Work, Power, Energy 02B",
+    "youtube": "https://www.youtube.com/watch?v=x-sOdUlE_AM",
+    "topics": [
+      "Work",
+      "Conservative Field"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Work, Power, Energy 03",
+    "youtube": "https://www.youtube.com/watch?v=g-sDopTzoRc",
+    "topics": [
+      "Kinetic Energy",
+      "Potential Energy",
+      "Power",
+      "Escape Velocity",
+      "Interconversion of KE & PE",
+      "Law of Conservation of Energy"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Dynamics 01",
+    "youtube": "https://www.youtube.com/watch?v=ZLAvI0qVunE",
+    "topics": [
+      "Newton's Laws of Motion",
+      "Momentum & Impulse",
+      "Conservation of Linear Momentum",
+      "Elastic & Inelastic Collisions",
+      "Inclined Plane & Friction"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Circular Motion 01",
+    "youtube": "https://www.youtube.com/watch?v=g5ormbYriEc",
+    "topics": [
+      "Angular Quantities",
+      "Relation between Linear & Angular Quantities",
+      "Centripetal force & acceleration",
+      "Horizontal Circular Motion (UCM)",
+      "Vertical Circular Motion (NUCM)"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Rotational Motion 01",
+    "youtube": "https://www.youtube.com/watch?v=gxE0WxThqL4",
+    "topics": [
+      "Torque",
+      "Angular Momentum & Its Conservation",
+      "Moment of Inertia"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Oscillations (SHM) 01",
+    "youtube": "https://www.youtube.com/watch?v=IBETDjE7Al4",
+    "topics": [
+      "Basic Concepts of SHM",
+      "Energy Conservation",
+      "Mass Spring System"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Oscillations (SHM) 02",
+    "youtube": "https://www.youtube.com/watch?v=xIPASzdwTw0",
+    "topics": [
+      "Projection's SHM, Formulae, Equations, Graphs",
+      "Energy Conservation",
+      "Simple Pendulum",
+      "Resonance & Damping"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Waves & Sound (Acoustics) 01",
+    "youtube": "https://www.youtube.com/watch?v=AgbPn22-baQ",
+    "topics": [
+      "Basic Concepts of Waves",
+      "Standing Waves in Strings"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Waves & Sound (Acoustics) 02",
+    "youtube": "https://www.youtube.com/watch?v=FflH6pEcV8o",
+    "topics": [
+      "Beats",
+      "Standing Waves in Strings",
+      "Standing Waves in Air Columns",
+      "Sound Wave Characteristics",
+      "Speed of Sound in Air",
+      "Dopplers Effect"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Physical Optics 01",
+    "youtube": "https://www.youtube.com/watch?v=zPosabzIN3o",
+    "topics": [
+      "Huygens Principle"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Physical Optics 02",
+    "youtube": "https://www.youtube.com/watch?v=jgsUZ9dIdNM",
+    "topics": [
+      "Double Slit Experiment",
+      "Newton Rings & Thin film interference",
+      "Michelson Interferometer",
+      "Single Slit & Multi Slit Diffraction",
+      "X Rays Diffraction"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Geometrical Instruments 01",
+    "youtube": "https://www.youtube.com/watch?si=SuEPQt6ykVsHKeEz&v=Hab68oq3AL0&feature=youtu.be",
+    "topics": [
+      "Basic Concepts & Ray Diagrams"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Geometrical Instruments 02",
+    "youtube": "https://www.youtube.com/watch?si=y4RETx5NBexomgrJ&v=BJzevLKkqiw&feature=youtu.be",
+    "topics": [
+      "Magnification & Microscopes",
+      "Telescope(s)",
+      "Reflection & Refraction",
+      "Resolving Power & Resolution"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Fluid Dynamics 01",
+    "youtube": "https://www.youtube.com/watch?v=wUughOS3v88",
+    "topics": [
+      "Stokes' Law"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Fluid Dynamics 02",
+    "youtube": "https://www.youtube.com/watch?v=eoqv7RN2jd0",
+    "topics": [
+      "Equation of Continuity",
+      "Bernoulli's Principle & Applications"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 01",
+    "youtube": "https://www.youtube.com/watch?v=j5_EczNwraM",
+    "topics": [
+      "Basic Concepts & Thermometry",
+      "Gas Laws",
+      "Kinetic Molecular Theory (KMT)"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 02",
+    "youtube": "https://www.youtube.com/watch?v=vhc4Up73pXQ",
+    "topics": [
+      "Gas Laws",
+      "Kinetic Molecular Theory (KMT)",
+      "1st Law of Thermodynamics",
+      "Heat Capacity & Latent Heat"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 03",
+    "youtube": "https://www.youtube.com/watch?v=82moQOLVg5k",
+    "topics": [
+      "1st Law of Thermodynamics",
+      "2nd Law of Thermodynamics",
+      "Carnot Engine & Refrigerator"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 01",
+    "youtube": "https://www.youtube.com/watch?v=fO4TW1pDwPA",
+    "topics": [
+      "Charge & Its Properties"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 02",
+    "youtube": "https://www.youtube.com/watch?v=uv_TojsaU9U",
+    "topics": [
+      "Charge & Its Properties",
+      "Coulomb's Law",
+      "Electric Field Intensity & Force Lines",
+      "Electric Potential & EPE"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 03",
+    "youtube": "https://www.youtube.com/watch?v=LwG3sMj67dY",
+    "topics": [
+      "Electric Flux",
+      "Electric Potential & EPE",
+      "Capacitors",
+      "Capacitor Combination"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 01",
+    "youtube": "https://www.youtube.com/watch?v=xqD-pXWENvw",
+    "topics": [
+      "Basic Concepts of Current Electricity"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 02",
+    "youtube": "https://www.youtube.com/watch?v=p8fK00hGvEc",
+    "topics": [
+      "Resistance & Its Parameters",
+      "Resistance Combinations",
+      "Internal Resistance & Color Coding",
+      "Wheatstone & Meter Bridge(s)"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 03",
+    "youtube": "https://www.youtube.com/watch?v=vsdZDoyN9QE",
+    "topics": [
+      "Resistance Combinations",
+      "Power & Energy Dissipation",
+      "Internal Resistance & Color Coding"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetism 01",
+    "youtube": "https://www.youtube.com/watch?v=OlfNgpz5G6E",
+    "topics": [
+      "Basic Concepts of Electromagnetism",
+      "Force on a Moving Charge",
+      "Force on a CCC & Torque"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetism 02",
+    "youtube": "https://www.youtube.com/watch?v=pH5gkaRqfQI",
+    "topics": [
+      "Galvanometer, Ammeter, & Voltmeter",
+      "Biot & Savart Law",
+      "Ampere's Law & Applications"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetic Induction 01",
+    "youtube": "https://www.youtube.com/watch?v=INxTn1hVWa8",
+    "topics": [
+      "Faradays Law",
+      "Lenz's Law"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetic Induction 02",
+    "youtube": "https://www.youtube.com/watch?v=acw0XNjHP8U",
+    "topics": [
+      "Motional EMF",
+      "Mutual & Self Induction",
+      "Transformers",
+      "AC Generators"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Alternating Current (AC Circuits) 01",
+    "youtube": "https://www.youtube.com/watch?v=92bf_NWUHOY",
+    "topics": [
+      "Basic Concepts of AC Circuits",
+      "Pure R, C & L Circuits"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Alternating Current (AC Circuits) 02",
+    "youtube": "https://www.youtube.com/watch?v=vpZsFDP9Ibw",
+    "topics": [
+      "Pure R, C & L Circuits",
+      "RC & RL Circuits",
+      "Series & Parallel RLC Circuits",
+      "Power in AC Circuits"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Physics of Solids 01",
+    "youtube": "https://www.youtube.com/watch?v=ygYk8jB3tYQ",
+    "topics": [
+      "Electrical Properties of Solids",
+      "Magnetic Properties of Solids"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Physics of Solids 02A",
+    "youtube": "https://www.youtube.com/watch?v=3TqTpBNEwCM",
+    "topics": [
+      "Mechanical Properties of Solids",
+      "Electrical Properties of Solids",
+      "Magnetic Properties of Solids"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Physics of Solids 02B",
+    "youtube": "https://www.youtube.com/watch?v=mtSf-Hrew74",
+    "topics": [
+      "Mechanical Properties of Solids"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Electronics 01",
+    "youtube": "https://www.youtube.com/watch?v=Q31dhQk0zVM",
+    "topics": [
+      "PN Junction Diode"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Electronics 02",
+    "youtube": "https://www.youtube.com/watch?v=HG5-BWUiRcE",
+    "topics": [
+      "Rectification",
+      "Logic Gates"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Modern Physics 01 A",
+    "youtube": "https://www.youtube.com/watch?v=BCOTKsRWZH8",
+    "topics": [
+      "Photon & Its Properties",
+      "Compton's Effect",
+      "Pair Production & Pair Annihilation"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Modern Physics 01 B",
+    "youtube": "https://www.youtube.com/watch?v=JqjCh4BC_00",
+    "topics": [
+      "Photon & Its Properties",
+      "Compton's Effect",
+      "Pair Production & Pair Annihilation"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Modern Physics 02",
+    "youtube": "https://www.youtube.com/watch?v=XT8Rb0ay4Ts",
+    "topics": [
+      "Pair Production & Pair Annihilation",
+      "De Broglie's Hypothesis & Uncertainty Principle",
+      "Black Body Radiation"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Modern Physics 03",
+    "youtube": "https://www.youtube.com/watch?v=5I6wejIC9Ik",
+    "topics": [
+      "Theory of Relativity",
+      "Photoelectric Effect",
+      "Pair Production & Pair Annihilation",
+      "De Broglie's Hypothesis & Uncertainty Principle"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Atomic Spectra 01",
+    "youtube": "https://www.youtube.com/watch?v=WwABTCJsKfI",
+    "topics": [
+      "Bohr's Theory"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Atomic Spectra 02",
+    "youtube": "https://www.youtube.com/watch?v=2dtB4H8rfUE",
+    "topics": [
+      "Bohr's Theory",
+      "Resulting Equations of Bohr's Theory",
+      "Emission Spectrum of Hydrogen",
+      "X Rays",
+      "LASERs"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Nuclear Physics 01",
+    "youtube": "https://www.youtube.com/live/Z2DOVU4VndI",
+    "topics": [
+      "Basic Concepts of Nuclear Physics",
+      "Radioactivity & Decay Equations",
+      "Law of Radioactive Decay",
+      "Nuclear Reactions",
+      "Reactors & Types"
+    ],
+    "teacher": null,
+    "status": "completed"
+  },
+  {
+    "name": "Nuclear Physics 02",
+    "youtube": "https://www.youtube.com/watch?v=VoXDyZCtTGQ",
+    "topics": [
+      "Mass Defect & Binding Energy",
+      "Nuclear Reactions",
+      "Reactors & Types",
+      "Dosage & Radiation Exposure",
+      "Radiation Detectors",
+      "Particle Physics Phenomenon"
+    ],
+    "teacher": null,
+    "status": "completed"
+  }
+]

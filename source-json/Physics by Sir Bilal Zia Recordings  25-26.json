@@ -1,0 +1,1094 @@
+[
+  {
+    "name": "Basic Maths  01",
+    "youtube": "https://www.youtube.com/watch?v=2EAZlid41X8",
+    "topics": [
+      "Basic Maths"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Basic Maths  02",
+    "youtube": "https://www.youtube.com/watch?v=MmP8qjxmDBE&list=PLZkC_XdNiPIG0SWm9-gSZcuq80WU_k2UM&index=4",
+    "topics": [
+      "Basic Maths"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Basic Maths  03",
+    "youtube": "https://www.youtube.com/watch?v=1DXPKwrMYSk",
+    "topics": [
+      "Basic Maths"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "pending"
+  },
+  {
+    "name": "Basic Maths  04",
+    "youtube": "https://www.youtube.com/watch?v=yNZtSNtaNvw",
+    "topics": [
+      "Basic Maths"
+    ],
+    "teacher": "Sir Muhammad Asim",
+    "status": "pending"
+  },
+  {
+    "name": "Basic Maths  05",
+    "youtube": "https://www.youtube.com/watch?v=Msn2HSwhr84",
+    "topics": [
+      "Basic Maths"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "pending"
+  },
+  {
+    "name": "Measurements 01",
+    "youtube": "https://www.youtube.com/watch?v=3GD0fKVbzbY",
+    "topics": [
+      "Dimensional Analysis"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Measurements 02",
+    "youtube": "https://www.youtube.com/watch?v=XOC6gnINdm0",
+    "topics": [
+      "Dimensional Analysis",
+      "Significant Figures"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Measurements 03",
+    "youtube": "https://www.youtube.com/watch?v=pgeYAzk5-f4",
+    "topics": [
+      "Dimensional Analysis",
+      "Significant Figures"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Measurements 04",
+    "youtube": "https://www.youtube.com/watch?v=5A7EPpZtaxI",
+    "topics": [
+      "Error & Uncertainty Calculation"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Vectors 01",
+    "youtube": "https://www.youtube.com/watch?v=PHBWs1eaCqg",
+    "topics": [
+      "Basic Concepts & Types of Vectors",
+      "Vector Addition",
+      "Unit Vector"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Vectors 02",
+    "youtube": "https://www.youtube.com/watch?v=rYR4Ms2-vUE",
+    "topics": [
+      "Vector Addition"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Vectors 03",
+    "youtube": "https://www.youtube.com/watch?v=kKzeiVNU5MY",
+    "topics": [
+      "Vector Multiplication (Dot Product)"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Vectors 04",
+    "youtube": "https://www.youtube.com/watch?v=u5tYVhwOp7M&t=3252s",
+    "topics": [
+      "Vector Multiplication (Cross Product)"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Kinematics (Motion in 1D) 01",
+    "youtube": "https://www.youtube.com/watch?v=UFO1k3MSwsE",
+    "topics": [
+      "Distance & Displacement"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Kinematics (Motion in 1D) 02",
+    "youtube": "https://www.youtube.com/watch?v=TmjCwBLDl9w",
+    "topics": [
+      "Speed & Velocity"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Kinematics (Motion in 1D) 03",
+    "youtube": "https://www.youtube.com/watch?v=TsZn3PLfwoA",
+    "topics": [
+      "Acceleration",
+      "Equations of Motion"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Kinematics (Motion in 1D) 04",
+    "youtube": "https://www.youtube.com/watch?v=HAh07zmaeg8",
+    "topics": [
+      "Equations of Motion",
+      "Free Fall Motion",
+      "Graphs in Kinematics"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Projectile Motion (2D Motion) 01",
+    "youtube": "https://www.youtube.com/watch?v=lWBjD5W8lA8",
+    "topics": [
+      "Oblique Projectile",
+      "Horizontal Projection"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Projectile Motion (2D Motion) 02",
+    "youtube": "https://www.youtube.com/watch?v=_gKIekAUgIM",
+    "topics": [
+      "Oblique Projectile",
+      "Horizontal Projection"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Projectile Motion (2D Motion) 03",
+    "youtube": "https://www.youtube.com/watch?v=qvRSSMwxTBA",
+    "topics": [
+      "Oblique Projectile",
+      "Horizontal Projection"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Work, Power, Energy 01",
+    "youtube": "https://www.youtube.com/watch?v=07f6Bvct_ss",
+    "topics": [
+      "Work"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Work, Power, Energy 02A",
+    "youtube": "https://www.youtube.com/watch?v=52wPDXWkDRk",
+    "topics": [
+      "Work",
+      "Conservative Field"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Work, Power, Energy 02B",
+    "youtube": "https://www.youtube.com/watch?v=x-sOdUlE_AM",
+    "topics": [
+      "Work",
+      "Conservative Field"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Work, Power, Energy 03",
+    "youtube": "https://www.youtube.com/watch?v=g-sDopTzoRc",
+    "topics": [
+      "Kinetic Energy",
+      "Potential Energy",
+      "Power",
+      "Escape Velocity",
+      "Interconversion of KE & PE",
+      "Law of Conservation of Energy"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Dynamics 01",
+    "youtube": "https://www.youtube.com/watch?v=Q1c72UTCbuE",
+    "topics": [
+      "Newton's Laws of Motion"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Dynamics 02",
+    "youtube": "https://www.youtube.com/watch?v=s8TLFO8uHNo",
+    "topics": [
+      "Newton's Laws of Motion",
+      "Momentum & Impulse"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Dynamics 03",
+    "youtube": "https://www.youtube.com/watch?v=6AtVxjtT8rM",
+    "topics": [
+      "Conservation of Linear Momentum",
+      "Elastic & Inelastic Collisions",
+      "Inclined Plane & Friction"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Circular Motion 01",
+    "youtube": "https://www.youtube.com/watch?v=QKhuHxQP1AY",
+    "topics": [
+      "Angular Quantities"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Circular Motion 02",
+    "youtube": "https://www.youtube.com/watch?v=d_C4aYJCi7g",
+    "topics": [
+      "Angular Quantities",
+      "Relation between Linear & Angular Quantities",
+      "Centripetal force & acceleration"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Circular Motion 03",
+    "youtube": "https://www.youtube.com/watch?v=JPedTvcDUI0",
+    "topics": [
+      "Centripetal force & acceleration",
+      "Horizontal Circular Motion (UCM)",
+      "Vertical Circular Motion (NUCM)"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Circular Motion 04",
+    "youtube": "https://www.youtube.com/watch?v=EJmgudMLqvU",
+    "topics": [
+      "Vertical Circular Motion (NUCM)",
+      "Banking of Roads"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Rotational Motion 01",
+    "youtube": "https://www.youtube.com/watch?v=SdSpoeUHij0",
+    "topics": [
+      "Torque"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Rotational Motion 02",
+    "youtube": "https://www.youtube.com/watch?v=El969DbG7eA",
+    "topics": [
+      "Torque",
+      "Angular Momentum & Its Conservation"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Rotational Motion 03",
+    "youtube": "https://www.youtube.com/watch?v=WbovSaxnH2U",
+    "topics": [
+      "Torque",
+      "Moment of Inertia",
+      "Translational & Rotational KE"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Rotational Motion 04",
+    "youtube": "https://www.youtube.com/watch?v=WbovSaxnH2U",
+    "topics": [
+      "Torque",
+      "Angular Momentum & Its Conservation",
+      "Moment of Inertia",
+      "Translational & Rotational KE"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Gravitation 01",
+    "youtube": "https://www.youtube.com/watch?v=sxx6gUV9m94",
+    "topics": [
+      "Newton's Law of Universal Gravitation",
+      "Variation in the value of 'g'",
+      "Artificial Gravity"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Oscillations (SHM) 01",
+    "youtube": "https://www.youtube.com/watch?v=ZMB0GYN70n8",
+    "topics": [
+      "Basic Concepts of SHM"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Oscillations (SHM) 02",
+    "youtube": "https://www.youtube.com/watch?v=V01zbVXEIMY",
+    "topics": [
+      "Basic Concepts of SHM"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Oscillations (SHM) 03",
+    "youtube": "https://www.youtube.com/watch?v=8qXwawZotcU",
+    "topics": [
+      "Projection's SHM, Formulae, Equations, Graphs",
+      "Mass Spring System"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Oscillations (SHM) 04",
+    "youtube": "https://www.youtube.com/watch?v=Wczdev667cI",
+    "topics": [
+      "Energy Conservation",
+      "Mass Spring System"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Oscillations (SHM) 05",
+    "youtube": "https://www.youtube.com/watch?v=jnbQZCnx8o0",
+    "topics": [
+      "Mass Spring System",
+      "Simple Pendulum"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Waves & Sound (Acoustics) 01",
+    "youtube": "https://www.youtube.com/watch?v=ypWHHM9tKg0",
+    "topics": [
+      "Basic Concepts of Waves"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Waves & Sound (Acoustics) 02",
+    "youtube": "https://www.youtube.com/watch?v=nTsOBon3vCA",
+    "topics": [
+      "Basic Concepts of Waves",
+      "Equation of SHM Wave"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Waves & Sound (Acoustics) 03",
+    "youtube": "https://www.youtube.com/watch?v=tx0xwRL8kZ0",
+    "topics": [
+      "Sound Wave Characteristics",
+      "Speed of Sound in Air"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Waves & Sound (Acoustics) 04",
+    "youtube": "https://www.youtube.com/watch?v=SsvrGDZnwO0",
+    "topics": [
+      "Wave Interference & Its Types",
+      "Beats"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Waves & Sound (Acoustics) 05",
+    "youtube": "https://www.youtube.com/watch?v=3AaAsKPx1eQ",
+    "topics": [
+      "Standing Waves in Strings"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Waves & Sound (Acoustics) 06",
+    "youtube": "https://www.youtube.com/watch?v=j9L8V1xllH8",
+    "topics": [
+      "Standing Waves in Strings",
+      "Standing Waves in Air Columns",
+      "Dopplers Effect"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Physical Optics 01",
+    "youtube": "https://www.youtube.com/embed/xyrD2-fLDxo",
+    "topics": [
+      "Double Slit Experiment"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Physical Optics 02",
+    "youtube": "https://www.youtube.com/embed/2hxKYKa9k3k",
+    "topics": [
+      "Newton Rings & Thin film interference",
+      "Michelson Interferometer"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Physical Optics 03",
+    "youtube": "https://www.youtube.com/embed/3gVrbeNAqcQ",
+    "topics": [
+      "Single Slit & Multi Slit Diffraction",
+      "X Rays Diffraction"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Geometrical Instruments 01",
+    "youtube": "https://www.youtube.com/watch?v=Hab68oq3AL0",
+    "topics": [
+      "Basic Concepts & Ray Diagrams"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Geometrical Instruments 02",
+    "youtube": "https://www.youtube.com/watch?v=BJzevLKkqiw",
+    "topics": [
+      "Magnification & Microscopes",
+      "Telescope(s)"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Fluid Dynamics 01",
+    "youtube": "https://www.youtube.com/watch?v=wUughOS3v88",
+    "topics": [
+      "Stokes' Law"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Fluid Dynamics 02",
+    "youtube": "https://www.youtube.com/watch?v=eoqv7RN2jd0",
+    "topics": [
+      "Equation of Continuity",
+      "Bernoulli's Principle & Applications"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 01",
+    "youtube": "https://www.youtube.com/watch?v=kl01q3jMXTM",
+    "topics": [
+      "Basic Concepts & Thermometry"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 02",
+    "youtube": "https://www.youtube.com/watch?v=1m1pem6Sl0A",
+    "topics": [
+      "Basic Concepts & Thermometry"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 03",
+    "youtube": "https://www.youtube.com/watch?v=JdUIUgr1Dfk",
+    "topics": [
+      "Basic Concepts & Thermometry"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 04",
+    "youtube": "https://www.youtube.com/watch?v=EcTQ9AoMV5c",
+    "topics": [
+      "Thermal Expansion"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 05",
+    "youtube": "https://www.youtube.com/watch?v=vs6teWN34ko",
+    "topics": [
+      "Thermal Expansion",
+      "Gas Laws"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 06A",
+    "youtube": "https://www.youtube.com/watch?v=BphnfEqihAE",
+    "topics": [
+      "Gas Laws"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 06B",
+    "youtube": "https://www.youtube.com/watch?v=h7YmN7tOj50",
+    "topics": [
+      "Gas Laws",
+      "Kinetic Molecular Theory (KMT)"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 07",
+    "youtube": "https://www.youtube.com/watch?v=fFp76_6DDhw",
+    "topics": [
+      "Kinetic Molecular Theory (KMT)",
+      "Heat Capacity & Latent Heat"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 08",
+    "youtube": "https://www.youtube.com/watch?v=1jAk7hyP1u4",
+    "topics": [
+      "1st Law of Thermodynamics",
+      "Heat Capacity & Latent Heat"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 09A",
+    "youtube": "https://www.youtube.com/watch?v=tyLQ_51Eqfo",
+    "topics": [
+      "1st Law of Thermodynamics"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 09B",
+    "youtube": "https://www.youtube.com/watch?v=EQSkuhOcAYg",
+    "topics": [
+      "1st Law of Thermodynamics",
+      "Heat Capacity & Latent Heat"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 10",
+    "youtube": "https://www.youtube.com/watch?v=-BocHf8yEQ4",
+    "topics": [
+      "1st Law of Thermodynamics"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Heat & Thermodynamics 11",
+    "youtube": "https://www.youtube.com/embed/PE0MW8tWm18",
+    "topics": [
+      "2nd Law of Thermodynamics",
+      "Carnot Engine & Refrigerator"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 01",
+    "youtube": "https://www.youtube.com/watch?v=wgymT_iwg6Q",
+    "topics": [
+      "Charge & Its Properties"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 02",
+    "youtube": "https://www.youtube.com/watch?v=tQH-XytGKIQ",
+    "topics": [
+      "Coulomb's Law"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 03",
+    "youtube": "https://www.youtube.com/watch?v=OGPZVJb-wrI",
+    "topics": [
+      "Coulomb's Law"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 04",
+    "youtube": "https://www.youtube.com/watch?v=cAgo7zab4nA",
+    "topics": [
+      "Coulomb's Law"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 05",
+    "youtube": "https://www.youtube.com/watch?v=-XxkuS3v4xQ",
+    "topics": [
+      "Electric Field Intensity & Force Lines"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 06",
+    "youtube": "https://www.youtube.com/watch?v=A_6fuAt8OYA",
+    "topics": [
+      "Electric Flux",
+      "Gauss's Law & Its Applications"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 07",
+    "youtube": "https://www.youtube.com/watch?v=bi8_dubjtZE",
+    "topics": [
+      "Electric Potential & EPE"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 08",
+    "youtube": "https://www.youtube.com/embed/KUWS5PvHR3A",
+    "topics": [
+      "Capacitors"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electrostatics 09",
+    "youtube": "https://www.youtube.com/watch?v=uct44Prd4RU",
+    "topics": [
+      "Electric Field Intensity & Force Lines"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 01",
+    "youtube": "https://www.youtube.com/watch?v=z3dAi4xMfBM",
+    "topics": [
+      "Basic Concepts of Current Electricity"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 02",
+    "youtube": "https://www.youtube.com/watch?v=XsTC9vnm4Ro",
+    "topics": [
+      "Ohm's Law"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 03",
+    "youtube": "https://www.youtube.com/watch?v=y46748LthxQ",
+    "topics": [
+      "Ohm's Law"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 04",
+    "youtube": "https://www.youtube.com/watch?v=3UG5ZLbO9wA",
+    "topics": [
+      "Resistance Combinations"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 05",
+    "youtube": "https://www.youtube.com/watch?v=8TbTtkf9xPs",
+    "topics": [
+      "Resistance Combinations"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 06",
+    "youtube": "https://www.youtube.com/watch?v=omQKfiiDsT8",
+    "topics": [
+      "Resistance Combinations",
+      "Power & Energy Dissipation",
+      "Wheatstone & Meter Bridge(s)"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Current Electricity (DC Circuits) 07",
+    "youtube": "https://www.youtube.com/watch?v=YdmWonBV7PE",
+    "topics": [
+      "Wheatstone & Meter Bridge(s)",
+      "Potentiometer"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetism 01",
+    "youtube": "https://www.youtube.com/watch?v=X83CAuX5jiA",
+    "topics": [
+      "Basic Concepts of Electromagnetism"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetism 02",
+    "youtube": "https://www.youtube.com/watch?v=Jhe5ek4wk94",
+    "topics": [
+      "Force on a Moving Charge"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetism 03",
+    "youtube": "https://www.youtube.com/watch?v=Uf97svVOQTQ",
+    "topics": [
+      "Force on a Moving Charge"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetism 04",
+    "youtube": "https://www.youtube.com/watch?v=5dMA1lWO2eA",
+    "topics": [
+      "Force on a CCC & Torque"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetism 05",
+    "youtube": "https://www.youtube.com/watch?v=SjrsSQBZYdw",
+    "topics": [
+      "Galvanometer, Ammeter, & Voltmeter"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetism 06",
+    "youtube": "https://www.youtube.com/watch?v=Rylr-qrTIIA",
+    "topics": [
+      "Biot & Savart Law",
+      "Ampere's Law & Applications",
+      "Magnetic Flux"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetic Induction 01",
+    "youtube": "https://www.youtube.com/watch?v=8RpfhC8svP0",
+    "topics": [
+      "Faradays Law",
+      "Lenz's Law",
+      "Mutual & Self Induction"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electromagnetic Induction 02",
+    "youtube": "https://www.youtube.com/watch?v=Hzi2ccftV0o",
+    "topics": [
+      "Motional EMF",
+      "Transformers"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Alternating Current (AC Circuits) 01",
+    "youtube": "https://www.youtube.com/watch?v=yIvKI88zuLg",
+    "topics": [
+      "Basic Concepts of AC Circuits"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Alternating Current (AC Circuits) 02",
+    "youtube": "https://www.youtube.com/watch?v=5pulYFTK2z0",
+    "topics": [
+      "Basic Concepts of AC Circuits"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Alternating Current (AC Circuits) 03",
+    "youtube": "https://www.youtube.com/watch?v=5fVWYsAKVfo",
+    "topics": [
+      "Basic Concepts of AC Circuits",
+      "Pure R, C & L Circuits"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Alternating Current (AC Circuits) 04",
+    "youtube": "https://www.youtube.com/watch?v=ZkIux0Is85o",
+    "topics": [
+      "RC & RL Circuits",
+      "Power in AC Circuits"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Alternating Current (AC Circuits) 05",
+    "youtube": "https://www.youtube.com/watch?v=HJgm2F31X6M",
+    "topics": [
+      "RC & RL Circuits",
+      "Series & Parallel RLC Circuits"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Physics of Solids 01",
+    "youtube": "https://www.youtube.com/watch?v=tq2A6PmnosM",
+    "topics": [
+      "Mechanical Properties of Solids"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Physics of Solids 02",
+    "youtube": "https://www.youtube.com/watch?v=YcL5OrL3L-4",
+    "topics": [
+      "Electrical Properties of Solids",
+      "Magnetic Properties of Solids"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electronics 01",
+    "youtube": "https://www.youtube.com/watch?v=k9rFFHhuWtg",
+    "topics": [
+      "PN Junction Diode",
+      "Rectification"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Electronics 02",
+    "youtube": "https://www.youtube.com/watch?v=PACgmWkaAOQ",
+    "topics": [
+      "Transistors",
+      "Operational Amplifiers",
+      "Logic Gates"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Modern Physics 01",
+    "youtube": "https://www.youtube.com/watch?v=6RSHUKdFhTc",
+    "topics": [
+      "Photon & Its Properties"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Modern Physics 02",
+    "youtube": "https://www.youtube.com/watch?v=CryyuFfECEc",
+    "topics": [
+      "Photoelectric Effect"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Modern Physics 03",
+    "youtube": "https://www.youtube.com/watch?v=G1vQsYemSg4",
+    "topics": [
+      "Compton's Effect",
+      "Pair Production & Pair Annihilation",
+      "De Broglie's Hypothesis & Uncertainty Principle"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Modern Physics 04",
+    "youtube": "https://www.youtube.com/watch?v=FtPgX_DDfbo",
+    "topics": [
+      "Theory of Relativity"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Atomic Spectra 01",
+    "youtube": "https://www.youtube.com/watch?v=CwjM8EOS5zE",
+    "topics": [
+      "Bohr's Theory"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Atomic Spectra 02",
+    "youtube": "https://www.youtube.com/watch?v=NGD7QOqCBME",
+    "topics": [
+      "Resulting Equations of Bohr's Theory"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Atomic Spectra 03",
+    "youtube": "https://www.youtube.com/watch?v=v7kF-8nqdkU",
+    "topics": [
+      "Emission Spectrum of Hydrogen",
+      "X Rays"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Atomic Spectra 04",
+    "youtube": "https://www.youtube.com/watch?v=5i4W1nMCvCY",
+    "topics": [
+      "LASERs"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Nuclear Physics 01",
+    "youtube": "https://www.youtube.com/live/UzTYNhT0i7U",
+    "topics": [
+      "Basic Concepts of Nuclear Physics"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Nuclear Physics 02A",
+    "youtube": "https://www.youtube.com/live/_8aGNgjFh_A",
+    "topics": [
+      "Radioactivity & Decay Equations",
+      "Law of Radioactive Decay"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Nuclear Physics 2B",
+    "youtube": "https://www.youtube.com/live/CGfi0uwcQSw",
+    "topics": [
+      "Radioactivity & Decay Equations",
+      "Law of Radioactive Decay"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Nuclear Physics 03",
+    "youtube": "https://www.youtube.com/watch?v=FqY7NzT1MBc",
+    "topics": [
+      "Mass Defect & Binding Energy",
+      "Nuclear Reactions",
+      "Reactors & Types",
+      "Dosage & Radiation Exposure"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Nuclear Physics 04",
+    "youtube": "https://www.youtube.com/watch?v=gChXp28bsjM",
+    "topics": [
+      "Law of Radioactive Decay"
+    ],
+    "teacher": "Sir Bilal Zia",
+    "status": "completed"
+  }
+]

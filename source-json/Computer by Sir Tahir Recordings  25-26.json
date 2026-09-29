@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Number System & Logic Gates 01",
+    "youtube": "https://www.youtube.com/watch?v=LcCRVk1eiNw",
+    "topics": [
+      "Number System Basics & Conversions"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Number System & Logic Gates 02",
+    "youtube": "https://www.youtube.com/watch?v=e8MU6npPwQI",
+    "topics": [
+      "Binary Arithmetic & Complements",
+      "Logic Gates, Boolean Algebra & Circuits"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Number System & Logic Gates 03A",
+    "youtube": "https://www.youtube.com/watch?v=HzuQaksZNSg",
+    "topics": [
+      "Number System Basics & Conversions",
+      "Binary Arithmetic & Complements"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Number System & Logic Gates 03B",
+    "youtube": "https://www.youtube.com/watch?v=p9ZIa5hByJw",
+    "topics": [
+      "Binary Arithmetic & Complements",
+      "Logic Gates, Boolean Algebra & Circuits",
+      "Applications of Number System & Logic Gates"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Number System & Logic Gates 04",
+    "youtube": "https://www.youtube.com/watch?v=H38zBDuZ3NU",
+    "topics": [
+      "Binary Arithmetic & Complements",
+      "Logic Gates, Boolean Algebra & Circuits",
+      "Applications of Number System & Logic Gates"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "History, Generations, Coding Schemes, Memory Sizes Of Computer 01",
+    "youtube": "https://www.youtube.com/watch?v=o76JSyHS0QY",
+    "topics": [
+      "Computer History & Evolution",
+      "Binary Coding Schemes  ",
+      "Computer Memory Sizes"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "History, Generations, Coding Schemes, Memory Sizes Of Computer 02",
+    "youtube": "https://www.youtube.com/watch?v=iEjCzToVeR0",
+    "topics": [
+      "Computer History & Evolution",
+      "Binary Coding Schemes  ",
+      "Computer Memory Sizes"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Basic Concepts Of Computer Technology 01",
+    "youtube": "https://www.youtube.com/watch?v=qWOJRjThfVY",
+    "topics": [
+      "Computer System & Fundamentals",
+      "Input Devices & its kinds  "
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Basic Concepts Of Computer Technology 02",
+    "youtube": "https://www.youtube.com/watch?v=oQYv7fpN84s",
+    "topics": [
+      "Input Devices & its kinds  ",
+      "Output Devices & its kinds  "
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Information Networks & Data Communications 01",
+    "youtube": "https://www.youtube.com/live/D4KI7fWMuvc",
+    "topics": [
+      "Networking Basics & Classification",
+      "Internet Addressing, Routing & Protocols",
+      "Transmission Media & Wireless Communication"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Applications & Use of computer 01",
+    "youtube": "https://www.youtube.com/watch?v=jAFLYieAIEo",
+    "topics": [
+      "How Computers are used in different fields",
+      "Impact of Computers on People & Organization",
+      "Emerging Technology"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Computer Architecture 01",
+    "youtube": "https://www.youtube.com/watch?v=TQO_9Qu5Gp0",
+    "topics": [
+      "Fundamentals of Computer Architecture",
+      "CPU & Internal Storage"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Computer Architecture 02",
+    "youtube": "https://www.youtube.com/watch?v=Hk5fRmro69g",
+    "topics": [
+      "Computer Bus & its types",
+      "Instruction Set Architecture (ISA)"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Cyber Security 01",
+    "youtube": "https://www.youtube.com/watch?v=cl9MqfDAiPM",
+    "topics": [
+      "Cyber Security & its importance",
+      "Computer Crime & its types",
+      "Computer Malware & its types"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Operating System & Windows 01",
+    "youtube": "https://www.youtube.com/watch?v=yIBN9BCU93U",
+    "topics": [
+      "System Software & OS Fundamentals",
+      "User Interface & Windows OS",
+      "Operating System Types",
+      "Process & Threads"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Word Processing & MS Word 01",
+    "youtube": "https://www.youtube.com/watch?v=-gEqZA0wlWI",
+    "topics": [
+      "Application Software & its types",
+      "Word Processing & its functions",
+      "Explore MS Word Software"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Spread Sheet & MS Excel 01",
+    "youtube": "https://www.youtube.com/watch?v=cSq8qsbQtk8",
+    "topics": [
+      "Spreadsheet & its functions",
+      "Explore MS Excel Software"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Internet Browsing and using Email & Internet 01",
+    "youtube": "https://www.youtube.com/watch?v=17bWvpnrqYA",
+    "topics": [
+      "Web Browsing Fundamentals & Terminologies",
+      "Email Structure, Formats & Types"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Concepts of Computer Programming 01",
+    "youtube": "https://www.youtube.com/watch?v=lgqDM7flRLg",
+    "topics": [
+      "What is Programming Language & five main steps of it",
+      "Types of Error & Debugging Process in Programming Language",
+      "Paradigm of Programming"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Algorithm & its types & Algorithmic Notations 01A",
+    "youtube": "https://www.youtube.com/watch?v=i9AOK6v2GqM",
+    "topics": [
+      "Algorithm & its types & Algorithmic Notations",
+      "Flowchart & its categories and its types",
+      "Flowchart Symbols"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Algorithm & its types & Algorithmic Notations 01B",
+    "youtube": "https://www.youtube.com/watch?v=nRZ2DrC0_gE",
+    "topics": [
+      "Algorithm & its types & Algorithmic Notations",
+      "Flowchart & its categories and its types",
+      "Flowchart Symbols"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "An Overview of C language and Fundamental 01",
+    "youtube": "https://www.youtube.com/watch?v=CJPJTfiGnzc",
+    "topics": [
+      "Evolution of C programming Language",
+      "What is IDE and its components and how we prepare C program",
+      "Language Translators",
+      "What are Identifiers & Variables & Arrays with their rules",
+      "Reserved Keywords, Comments & Escape Sequence in C",
+      "Data types in C",
+      "Symbolic Constants and its types"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Operators & expressions 01",
+    "youtube": "https://www.youtube.com/watch?v=_tP_nFvgWx0",
+    "topics": [
+      "Operators and its Classification",
+      "Conversion of Data type & type casting",
+      "Some common Library Functions"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Input & Output Statements 01",
+    "youtube": "https://www.youtube.com/watch?v=2NFl6_pV0Fk",
+    "topics": [
+      "What are Input/output Functions & its types",
+      "Format Specifier & Address Operator",
+      "Formatted I/O functions with examples",
+      "Unformatted I/O functions with examples"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Selection control structures 01",
+    "youtube": "https://www.youtube.com/watch?v=F8GK-lmE4Yk",
+    "topics": [
+      "Control Structure A/C to Selection or Conditional Flow",
+      "If, If-else, Nested If, Nested If-else Statements",
+      "Switch-case Statements"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Iteration control structures 01A",
+    "youtube": "https://www.youtube.com/watch?v=hTGXQRP91wc",
+    "topics": [
+      "Control Structure A/C to Iteration",
+      "For, Nested For, for loop variations",
+      "While & do while loop, Nested while or do while loop",
+      "Continue & Break Statement",
+      "Relationship between for loop & while loop, and which one is best for use?"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Iteration control structures 01B",
+    "youtube": "https://www.youtube.com/watch?v=HjKSJPYhVYs",
+    "topics": [
+      "Control Structure A/C to Iteration",
+      "For, Nested For, for loop variations",
+      "While & do while loop, Nested while or do while loop",
+      "Continue & Break Statement",
+      "Relationship between for loop & while loop, and which one is best for use?"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Functions 01 (A)",
+    "youtube": "https://www.youtube.com/watch?v=BmRFhJdQEx4",
+    "topics": [
+      "Function & its advantages/disadvantages & its types",
+      "User Defined Functions & variations in passing arguments",
+      "Recursive Function"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Functions 01 (B)",
+    "youtube": "https://www.youtube.com/watch?v=JHAyE0isLzo",
+    "topics": [
+      "Function & its advantages/disadvantages & its types",
+      "User Defined Functions & variations in passing arguments",
+      "Recursive Function"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Data files 01",
+    "youtube": "https://www.youtube.com/watch?v=6Ps8dB0ffHk",
+    "topics": [
+      "Basics of Pointer",
+      "File I/O Functions & its Working"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Database  01A",
+    "youtube": "https://www.youtube.com/watch?v=Nto_suJDm3c",
+    "topics": [
+      "Database & some basic term",
+      "Conventional File Management System & DBMS",
+      "Objective & Components of DBMS",
+      "Database Language & Role of DBA",
+      "Basic Database Models",
+      "Entity-Relationship (ER) Diagram"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Database  01B",
+    "youtube": "https://www.youtube.com/watch?v=hYL1NIGRMCw",
+    "topics": [
+      "Database & some basic term",
+      "Conventional File Management System & DBMS",
+      "Objective & Components of DBMS",
+      "Database Language & Role of DBA",
+      "Basic Database Models",
+      "Entity-Relationship (ER) Diagram"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "MS Access 01",
+    "youtube": "https://www.youtube.com/watch?v=UFbI9jkLNIE",
+    "topics": [
+      "MS Access & Classes of Database",
+      "MS Access Data types",
+      "Types of Relationship with Examples"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "SDLC 01",
+    "youtube": "https://www.youtube.com/watch?v=FyqsWPraNPg",
+    "topics": [
+      "What is System & System Development Life Cycle & Software Development Life Cycle",
+      "Importance & Objectives of SDLC"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "SDLC 02",
+    "youtube": "https://www.youtube.com/watch?v=WNsAymJSask",
+    "topics": [
+      "SDLC Phases/Steps",
+      "SDLC Development Models",
+      "Personnel Involved in SDLC & their Roles or Responsibilities"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Python Programming 01",
+    "youtube": "https://www.youtube.com/watch?v=XH8pkLCmztE",
+    "topics": [
+      "Introduction to Python & Basics Terms (Variables, Identifiers, Constant, Comments, Input/Output Function)",
+      "Python Scalar Object, Type Casting & Object Operators",
+      "Python Non Scalar Object & its Methods (String, List, Dictionary, Tuple, Set)",
+      "Control Structure & Its Types",
+      "Function & Namespace with Scope",
+      "File Handling"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  },
+  {
+    "name": "Data Structure & Algorithm 01",
+    "youtube": "https://www.youtube.com/watch?v=Awy8IsoHJ0s",
+    "topics": [
+      "Introduction to DSA & Its basic terminology",
+      "Linear Data Structure",
+      "Non Linear Data Structure",
+      "Searching & Sorting Algorithm"
+    ],
+    "teacher": "Sir Tahir Ali",
+    "status": "completed"
+  }
+]

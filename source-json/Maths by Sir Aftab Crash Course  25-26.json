@@ -1,0 +1,608 @@
+[
+  {
+    "name": "Number Systems and Complex Numbers 01",
+    "youtube": "https://www.youtube.com/watch?v=b9S-rsrmhF4",
+    "topics": [
+      "Foundations & Algebra of Complex Numbers",
+      "Geometry & Polar Representation",
+      "Advanced Theorems, Roots & Polynomials"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Number Systems and Complex Numbers 02",
+    "youtube": "https://www.youtube.com/watch?v=MXzznF4M8YQ",
+    "topics": [
+      "Foundations & Algebra of Complex Numbers",
+      "Geometry & Polar Representation",
+      "Advanced Theorems, Roots & Polynomials"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Number Systems and Complex Numbers 03",
+    "youtube": "https://www.youtube.com/watch?v=X6Ho69bfvMU",
+    "topics": [
+      "Foundations & Algebra of Complex Numbers",
+      "Geometry & Polar Representation",
+      "Advanced Theorems, Roots & Polynomials"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Number Systems and Complex Numbers 04",
+    "youtube": "https://www.youtube.com/watch?v=yWKpx9cbFls",
+    "topics": [
+      "Foundations & Algebra of Complex Numbers",
+      "Geometry & Polar Representation",
+      "Advanced Theorems, Roots & Polynomials"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Set Theory  01",
+    "youtube": "https://www.youtube.com/watch?v=tXj94T1pqLU",
+    "topics": [
+      "Basics & Types of Sets",
+      "Set Operations, Laws & Venn Diagrams"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Set Theory  02 A",
+    "youtube": "https://www.youtube.com/watch?v=r6ZQFmhnIT8",
+    "topics": [
+      "Basics & Types of Sets",
+      "Set Operations, Laws & Venn Diagrams"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Set Theory  02 B",
+    "youtube": "https://www.youtube.com/watch?v=ZabjM4S8J2U",
+    "topics": [
+      "Basics & Types of Sets",
+      "Set Operations, Laws & Venn Diagrams"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Group Theory 01",
+    "youtube": "https://www.youtube.com/watch?v=npxYomqhpYg",
+    "topics": [
+      "Preliminaries & Algebraic Structures",
+      "Core Concepts & Classifications of Groups",
+      "Properties & Applications of Groups"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Group Theory 02",
+    "youtube": "https://www.youtube.com/watch?v=_fBdlLqJ7kw",
+    "topics": [
+      "Preliminaries & Algebraic Structures",
+      "Core Concepts & Classifications of Groups",
+      "Properties & Applications of Groups"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Quadratic Equations 01",
+    "youtube": "https://www.youtube.com/watch?v=HUasPT2URI0",
+    "topics": [
+      "Introduction, Solutions & Polynomial Theorems",
+      "Theory of Roots & Advanced Equations",
+      "Simultaneous Equations & Word Problems"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Quadratic Equations 02",
+    "youtube": "https://www.youtube.com/watch?v=Pq9DKp3c2BQ",
+    "topics": [
+      "Introduction, Solutions & Polynomial Theorems",
+      "Theory of Roots & Advanced Equations",
+      "Simultaneous Equations & Word Problems"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Matrices and Determinants 01",
+    "youtube": "https://www.youtube.com/watch?v=oOXjVi3lty4",
+    "topics": [
+      "Matrix Fundamentals",
+      "Matrix Operations & Transformations",
+      "Determinants, Adjoint & Inverse of a Matrix",
+      "System of Linear Equations"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Matrices and Determinants 02",
+    "youtube": "https://www.youtube.com/watch?v=-jci-RMaRAg",
+    "topics": [
+      "Matrix Fundamentals",
+      "Matrix Operations & Transformations",
+      "Determinants, Adjoint & Inverse of a Matrix",
+      "System of Linear Equations"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Matrices and Determinants 03",
+    "youtube": "https://www.youtube.com/watch?v=B5u79nBdH6k",
+    "topics": [
+      "Matrix Fundamentals",
+      "Matrix Operations & Transformations",
+      "Determinants, Adjoint & Inverse of a Matrix",
+      "System of Linear Equations"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Matrices and Determinants 04",
+    "youtube": "http://youtube.com/watch?v=NR7SAKo5MEA",
+    "topics": [
+      "Matrix Fundamentals",
+      "Matrix Operations & Transformations",
+      "Determinants, Adjoint & Inverse of a Matrix",
+      "System of Linear Equations"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Permutations 01",
+    "youtube": "https://www.youtube.com/watch?v=ny8h7JoJucc",
+    "topics": [
+      "Foundations of Counting & Factorials",
+      "Core Permutation Formulas & Types",
+      "Conditional Arrangements & Word Problems"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Permutations 02",
+    "youtube": "https://www.youtube.com/watch?v=C3cYWDy3YfU",
+    "topics": [
+      "Foundations of Counting & Factorials",
+      "Core Permutation Formulas & Types",
+      "Conditional Arrangements & Word Problems"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Combinations 01",
+    "youtube": "https://www.youtube.com/watch?v=jTK0smaJzmQ",
+    "topics": [
+      "Foundations & Properties of Combinations",
+      "Conditional Selections & Committee Formations",
+      "Geometric & Practical Applications"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Combinations 02",
+    "youtube": "https://www.youtube.com/watch?v=f2MbwbW80hI",
+    "topics": [
+      "Foundations & Properties of Combinations",
+      "Conditional Selections & Committee Formations",
+      "Geometric & Practical Applications"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Probability 01",
+    "youtube": "https://www.youtube.com/watch?v=JYkX2uc2I_8",
+    "topics": [
+      "Foundations of Probability & Events",
+      "Practical Applications & Word Problems",
+      "Probability Laws & Advanced Theorems"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Probability 02",
+    "youtube": "https://www.youtube.com/watch?v=2itdkfpWYvk",
+    "topics": [
+      "Foundations of Probability & Events",
+      "Practical Applications & Word Problems",
+      "Probability Laws & Advanced Theorems"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Mathematical Induction & Binomial Theorem 01",
+    "youtube": "https://www.youtube.com/watch?v=-7b-J-bf_L4",
+    "topics": [
+      "Mathematical Induction & Proof Techniques",
+      "Binomial Coefficients, Pascal’s Triangle & Standard Expansions",
+      "Binomial Theorem for Negative & Fractional Indices"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Mathematical Induction & Binomial Theorem 02",
+    "youtube": "https://www.youtube.com/watch?v=b_eNRtVgRdo",
+    "topics": [
+      "Mathematical Induction & Proof Techniques",
+      "Binomial Coefficients, Pascal’s Triangle & Standard Expansions",
+      "Binomial Theorem for Negative & Fractional Indices"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 01",
+    "youtube": "https://www.youtube.com/watch?v=iDDbf_GPP_I",
+    "topics": [
+      "Trigonometric Fundamentals (Basic Concepts)",
+      "Trigonometric Identities & Formulae",
+      "Trigonometric Graphs",
+      "Applications of Trigonometry",
+      "Trigonometric Equations & Inverse Trigonometric Functions"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 02",
+    "youtube": "https://www.youtube.com/watch?v=8Zk7wr8OK6c",
+    "topics": [
+      "Trigonometric Fundamentals (Basic Concepts)",
+      "Trigonometric Identities & Formulae",
+      "Trigonometric Graphs",
+      "Applications of Trigonometry",
+      "Trigonometric Equations & Inverse Trigonometric Functions"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 03A",
+    "youtube": "https://www.youtube.com/watch?v=uI-5reXMIdk",
+    "topics": [
+      "Trigonometric Fundamentals (Basic Concepts)",
+      "Trigonometric Identities & Formulae",
+      "Trigonometric Graphs",
+      "Applications of Trigonometry",
+      "Trigonometric Equations & Inverse Trigonometric Functions"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 03B",
+    "youtube": "https://www.youtube.com/watch?v=BJwTmulgAYc",
+    "topics": [
+      "Trigonometric Fundamentals (Basic Concepts)",
+      "Trigonometric Identities & Formulae",
+      "Trigonometric Graphs",
+      "Applications of Trigonometry",
+      "Trigonometric Equations & Inverse Trigonometric Functions"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 04",
+    "youtube": "https://www.youtube.com/watch?v=4ZPt2vDXCmQ",
+    "topics": [
+      "Trigonometric Fundamentals (Basic Concepts)",
+      "Trigonometric Identities & Formulae",
+      "Trigonometric Graphs",
+      "Applications of Trigonometry",
+      "Trigonometric Equations & Inverse Trigonometric Functions"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Sequence and Series 01",
+    "youtube": "https://www.youtube.com/watch?v=8RIZ4JPhJpM",
+    "topics": [
+      "Foundations & Arithmetic Progressions (A.P.)",
+      "Geometric Progressions (G.P.)",
+      "Harmonic Progressions (H.P.) & Relationships between Means",
+      "Sigma Notation & Advanced Series"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Sequence and Series 02",
+    "youtube": "https://www.youtube.com/watch?v=2izi-8oXle4",
+    "topics": [
+      "Foundations & Arithmetic Progressions (A.P.)",
+      "Geometric Progressions (G.P.)",
+      "Harmonic Progressions (H.P.) & Relationships between Means",
+      "Sigma Notation & Advanced Series"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Linear Programming 01",
+    "youtube": "https://www.youtube.com/watch?v=lCU2y4lcFLQ",
+    "topics": [
+      "Linear Programming LLP"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Linear Programming 02",
+    "youtube": "https://www.youtube.com/watch?v=1fULJqCSwAs",
+    "topics": [
+      "Linear Programming LLP"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Linear Programming 03",
+    "youtube": "https://www.youtube.com/watch?v=CTQRtGO0nN4",
+    "topics": [
+      "Linear Programming LLP"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Vector 01",
+    "youtube": "http://youtube.com/watch?v=ElzqX6O3U7E",
+    "topics": [
+      "Fundamentals of Vectors",
+      "Vector Algebra",
+      "Vector Products and Their Applications"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Analytical Geometry 01",
+    "youtube": "https://www.youtube.com/watch?v=Hu5fCfFsV_A",
+    "topics": [
+      "Coordinate Geometry Fundamentals",
+      "Straight Lines",
+      "Line Intersections & Distance",
+      "Geometric Applications"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Analytical Geometry 02",
+    "youtube": "https://www.youtube.com/watch?v=sJL7W13ylzg",
+    "topics": [
+      "Coordinate Geometry Fundamentals",
+      "Straight Lines",
+      "Line Intersections & Distance",
+      "Geometric Applications"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Analytical Geometry 03",
+    "youtube": "https://www.youtube.com/watch?v=haJAgTmCEEo",
+    "topics": [
+      "Coordinate Geometry Fundamentals",
+      "Straight Lines",
+      "Line Intersections & Distance",
+      "Geometric Applications"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 01",
+    "youtube": "https://www.youtube.com/watch?v=u0iftXYXTlU",
+    "topics": [
+      "Circle"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 02",
+    "youtube": "https://www.youtube.com/watch?v=6tDahEYyA6o",
+    "topics": [
+      "Parabola"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 03",
+    "youtube": "https://www.youtube.com/watch?v=-6uA0plvE8Q",
+    "topics": [
+      "Ellipse"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 04",
+    "youtube": "https://www.youtube.com/watch?v=nkO5op-wG3s",
+    "topics": [
+      "Ellipse"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 05",
+    "youtube": "https://www.youtube.com/watch?v=NtzQ5QwBzeg",
+    "topics": [
+      "Hyperbola"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Integration 01",
+    "youtube": "https://www.youtube.com/watch?v=keyCOZBOD9E",
+    "topics": [
+      "Fundamentals of Integration",
+      "Integration Techniques & Special Forms",
+      "Definite Integrals & Applications",
+      "Differential Equations"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Integration 02",
+    "youtube": "https://www.youtube.com/live/yXQj_JZywBY?si=gY76rWrV4PifSH6E",
+    "topics": [
+      "Fundamentals of Integration",
+      "Integration Techniques & Special Forms",
+      "Definite Integrals & Applications",
+      "Differential Equations"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Integration 03",
+    "youtube": "https://www.youtube.com/watch?v=Rb4fBYvNyDk",
+    "topics": [
+      "Fundamentals of Integration",
+      "Integration Techniques & Special Forms",
+      "Definite Integrals & Applications",
+      "Differential Equations"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Derivative  01",
+    "youtube": "https://www.youtube.com/watch?v=XyPfH4m41fE",
+    "topics": [
+      "Foundations of Differentiation",
+      "Advanced Differentiation Techniques",
+      "Higher Derivatives & Series Expansion",
+      "Applications of Derivatives"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Derivative  02",
+    "youtube": "http://youtube.com/watch?v=EZ4ISTS38IM",
+    "topics": [
+      "Foundations of Differentiation",
+      "Advanced Differentiation Techniques",
+      "Higher Derivatives & Series Expansion",
+      "Applications of Derivatives"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Derivative  03 A",
+    "youtube": "https://www.youtube.com/watch?v=e3Liigm4cQE",
+    "topics": [
+      "Partial Derivatives"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Derivative  03 B",
+    "youtube": "https://www.youtube.com/watch?v=OScoYxjgGuE",
+    "topics": [
+      "Partial Derivatives"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Derivative  03 C",
+    "youtube": "https://www.youtube.com/watch?v=Ow8RBVagkp0",
+    "topics": [
+      "Partial Derivatives"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Function & Limit of Function 01",
+    "youtube": "https://www.youtube.com/watch?v=uBKibaKPYk8",
+    "topics": [
+      "Types of Functions",
+      "Function Analysis & Graphs"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Function & Limit of Function 02 A",
+    "youtube": "https://www.youtube.com/watch?v=P_3k5qjR92E",
+    "topics": [
+      "Types of Functions",
+      "Function Analysis & Graphs"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Function & Limit of Function 02 B",
+    "youtube": "https://www.youtube.com/watch?v=qUX9qTfHYtE",
+    "topics": [
+      "Types of Functions",
+      "Function Analysis & Graphs"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Function & Limit of Function 03",
+    "youtube": "https://www.youtube.com/watch?v=lfqapVvX5vQ",
+    "topics": [
+      "Limits, Continuity & Discontinuity"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Area of Shaded 01",
+    "youtube": "https://www.youtube.com/watch?v=X2-CaNbwIXg",
+    "topics": [
+      "Area of Shaded"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  },
+  {
+    "name": "Area of Shaded 02",
+    "youtube": "https://www.youtube.com/watch?v=zsFfL1RWcnw",
+    "topics": [
+      "Area of Shaded"
+    ],
+    "teacher": "Sir Aftab",
+    "status": "completed"
+  }
+]

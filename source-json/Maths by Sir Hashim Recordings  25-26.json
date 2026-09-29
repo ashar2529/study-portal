@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Number Systems and Complex Numbers 01",
+    "youtube": "https://www.youtube.com/watch?v=myfuU9XKuuM",
+    "topics": [
+      "Foundations & Algebra of Complex Numbers",
+      "Geometry & Polar Representation",
+      "Advanced Theorems, Roots & Polynomials"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Number Systems and Complex Numbers 02",
+    "youtube": "https://www.youtube.com/watch?v=nsrgjPkYjOU",
+    "topics": [
+      "Foundations & Algebra of Complex Numbers",
+      "Geometry & Polar Representation",
+      "Advanced Theorems, Roots & Polynomials"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Number Systems and Complex Numbers 03",
+    "youtube": "https://www.youtube.com/watch?v=i-KTgOUPT4o",
+    "topics": [
+      "Foundations & Algebra of Complex Numbers",
+      "Geometry & Polar Representation",
+      "Advanced Theorems, Roots & Polynomials"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Number Systems and Complex Numbers 04",
+    "youtube": "https://www.youtube.com/watch?v=-Iygnxxrj10",
+    "topics": [
+      "Foundations & Algebra of Complex Numbers",
+      "Geometry & Polar Representation",
+      "Advanced Theorems, Roots & Polynomials"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Set Theory  01",
+    "youtube": "https://www.youtube.com/embed/0QRNrOqU-vw",
+    "topics": [
+      "Basics & Types of Sets",
+      "Set Operations, Laws & Venn Diagrams"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Group Theory 01",
+    "youtube": "https://www.youtube.com/embed/LsCTLeVTvWM",
+    "topics": [
+      "Preliminaries & Algebraic Structures",
+      "Core Concepts & Classifications of Groups",
+      "Properties & Applications of Groups"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Quadratic Equations 01",
+    "youtube": "https://www.youtube.com/watch?v=qO03LVJuDQM",
+    "topics": [
+      "Theory of Roots & Advanced Equations"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Quadratic Equations 02",
+    "youtube": "https://www.youtube.com/watch?v=kG_lc5PLD8Q",
+    "topics": [
+      "Introduction, Solutions & Polynomial Theorems",
+      "Theory of Roots & Advanced Equations"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Quadratic Equations 03",
+    "youtube": "https://www.youtube.com/watch?v=SimWz_MkGuU",
+    "topics": [
+      "Simultaneous Equations & Word Problems"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Matrices and Determinants 01",
+    "youtube": "https://www.youtube.com/watch?v=SS1G6pcYHW0",
+    "topics": [
+      "Matrix Fundamentals",
+      "Matrix Operations & Transformations"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Matrices and Determinants 02",
+    "youtube": "https://www.youtube.com/watch?v=n9x7fignhj8v",
+    "topics": [
+      "Matrix Fundamentals",
+      "Matrix Operations & Transformations"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Matrices and Determinants 03",
+    "youtube": "https://www.youtube.com/watch?v=PfDl1fG89Hc",
+    "topics": [
+      "Determinants, Adjoint & Inverse of a Matrix"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Matrices and Determinants 04",
+    "youtube": "https://www.youtube.com/watch?v=Mkn10GhKfII",
+    "topics": [
+      "Determinants, Adjoint & Inverse of a Matrix"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Permutations 01",
+    "youtube": "https://www.youtube.com/watch?v=Uvxh_31hCBM",
+    "topics": [
+      "Foundations of Counting & Factorials",
+      "Conditional Arrangements & Word Problems"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Permutations 02",
+    "youtube": "https://www.youtube.com/watch?v=I49T4c0sEEw",
+    "topics": [
+      "Core Permutation Formulas & Types"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Combinations 01",
+    "youtube": "https://www.youtube.com/watch?v=NjxcMiM1-SE",
+    "topics": [
+      "Foundations & Properties of Combinations",
+      "Conditional Selections & Committee Formations"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Combinations 02",
+    "youtube": "https://www.youtube.com/watch?v=mGLJ_eN2Dgk",
+    "topics": [
+      "Geometric & Practical Applications"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Probability 01",
+    "youtube": "https://www.youtube.com/watch?v=SmEbc9xCawc",
+    "topics": [
+      "Foundations of Probability & Events",
+      "Practical Applications & Word Problems"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Probability 02",
+    "youtube": "https://www.youtube.com/watch?v=Y9arhOjPmv4",
+    "topics": [
+      "Probability Laws & Advanced Theorems"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 01",
+    "youtube": "https://www.youtube.com/watch?v=_ZsicjqQHUk",
+    "topics": [
+      "Trigonometric Fundamentals (Basic Concepts)"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 02",
+    "youtube": "https://www.youtube.com/watch?v=vlEmbcyHc-g",
+    "topics": [
+      "Trigonometric Identities & Formulae"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 03",
+    "youtube": "https://www.youtube.com/watch?v=-Gaohz10Gck",
+    "topics": [
+      "Trigonometric Equations & Inverse Trigonometric Functions"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 04",
+    "youtube": "https://www.youtube.com/watch?v=UIkxvzJ4SnY",
+    "topics": [
+      "Trigonometric Identities & Formulae",
+      "Trigonometric Equations & Inverse Trigonometric Functions"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 05",
+    "youtube": "https://www.youtube.com/watch?v=k4xHlw_KwW0",
+    "topics": [
+      "Applications of Trigonometry"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Trigonometry 06",
+    "youtube": "https://www.youtube.com/watch?v=qqC56J5tTBc",
+    "topics": [
+      "Trigonometric Graphs",
+      "Applications of Trigonometry",
+      "Trigonometric Equations & Inverse Trigonometric Functions"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Mathematical Induction & Binomial Theorem 01",
+    "youtube": "https://www.youtube.com/embed/nZ52yef4Lks",
+    "topics": [
+      "Mathematical Induction & Proof Techniques",
+      "Binomial Coefficients, Pascal’s Triangle & Standard Expansions"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Mathematical Induction & Binomial Theorem 02",
+    "youtube": "https://www.youtube.com/embed/N8s1vlADeyg",
+    "topics": [
+      "Mathematical Induction & Proof Techniques",
+      "Binomial Coefficients, Pascal’s Triangle & Standard Expansions"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Mathematical Induction & Binomial Theorem 03",
+    "youtube": "https://www.youtube.com/embed/WfMYJYQDde0",
+    "topics": [
+      "Binomial Theorem for Negative & Fractional Indices"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Mathematical Induction & Binomial Theorem 04",
+    "youtube": "https://www.youtube.com/embed/YBzhU-ISwHk",
+    "topics": [
+      "Binomial Theorem for Negative & Fractional Indices"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Sequence and Series 01",
+    "youtube": "https://www.youtube.com/watch?v=olrY293BB-I",
+    "topics": [
+      "Foundations & Arithmetic Progressions (A.P.)"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Sequence and Series 02",
+    "youtube": "https://www.youtube.com/watch?v=Aak3a6NUphE",
+    "topics": [
+      "Geometric Progressions (G.P.)"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Sequence and Series 03",
+    "youtube": "https://www.youtube.com/watch?v=sbgC6BZ8iss",
+    "topics": [
+      "Foundations & Arithmetic Progressions (A.P.)",
+      "Sigma Notation & Advanced Series"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Sequence and Series 04",
+    "youtube": "https://www.youtube.com/watch?v=s4aiSLcEwlc",
+    "topics": [
+      "Harmonic Progressions (H.P.) & Relationships between Means"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Vector 01",
+    "youtube": "https://www.youtube.com/live/8BKKojbcok0",
+    "topics": [
+      "Fundamentals of Vectors",
+      "Vector Algebra"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Vector 02",
+    "youtube": "https://www.youtube.com/watch?v=HCY7S6jrAU0",
+    "topics": [
+      "Vector Products and Their Applications"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Analytical Geometry 01",
+    "youtube": "https://www.youtube.com/watch?v=R9DlqgUPbPE",
+    "topics": [
+      "Coordinate Geometry Fundamentals"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Analytical Geometry 02",
+    "youtube": "https://www.youtube.com/watch?v=qeNtDDtJgYs",
+    "topics": [
+      "Straight Lines"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Analytical Geometry 03",
+    "youtube": "https://www.youtube.com/watch?v=n0oh7YATSGM",
+    "topics": [
+      "Straight Lines",
+      "Line Intersections & Distance"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Analytical Geometry 04",
+    "youtube": "https://www.youtube.com/watch?v=_JbEBLN5clk",
+    "topics": [
+      "Line Intersections & Distance"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Analytical Geometry 05",
+    "youtube": "https://www.youtube.com/watch?v=r6AKruJqEDE",
+    "topics": [
+      "Line Intersections & Distance",
+      "Geometric Applications"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Analytical Geometry 06",
+    "youtube": "https://www.youtube.com/watch?v=dE_J24k0MRs",
+    "topics": [
+      "Line Intersections & Distance",
+      "Geometric Applications"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 01",
+    "youtube": "https://www.youtube.com/watch?v=bWv1IaAYpGU",
+    "topics": [
+      "Circle"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 02",
+    "youtube": "https://www.youtube.com/live/F1v8L-em7uw",
+    "topics": [
+      "Circle"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 03",
+    "youtube": "https://www.youtube.com/watch?v=GlxQwzJdiLM",
+    "topics": [
+      "Parabola"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 04",
+    "youtube": "https://www.youtube.com/watch?v=QCKAM7Ro5Mo",
+    "topics": [
+      "Parabola"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 05",
+    "youtube": "https://www.youtube.com/watch?v=im6woNF7aTU",
+    "topics": [
+      "Ellipse"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 06",
+    "youtube": "https://www.youtube.com/watch?v=rzoqN8I_PnQ",
+    "topics": [
+      "Ellipse"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 07",
+    "youtube": "https://www.youtube.com/watch?v=aIGdrBgT6Do",
+    "topics": [
+      "Ellipse"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Conic Section 08",
+    "youtube": "https://www.youtube.com/watch?v=EGGt7WuqvII",
+    "topics": [
+      "Hyperbola"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Integration 01",
+    "youtube": "https://www.youtube.com/watch?v=WuvGG-1iHzY",
+    "topics": [
+      "Fundamentals of Integration"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Integration 02",
+    "youtube": "https://www.youtube.com/watch?v=8rrTtkW8kGQ",
+    "topics": [
+      "Fundamentals of Integration"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Integration 03",
+    "youtube": "https://www.youtube.com/watch?v=UWvu-NyBl6Y",
+    "topics": [
+      "Integration Techniques & Special Forms",
+      "Definite Integrals & Applications"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Integration 04",
+    "youtube": "https://www.youtube.com/watch?v=y1Ruj8fUsbQ",
+    "topics": [
+      "Integration Techniques & Special Forms",
+      "Definite Integrals & Applications"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Integration 05",
+    "youtube": "https://www.youtube.com/watch?v=6CNH_sDeiRs",
+    "topics": [
+      "Definite Integrals & Applications",
+      "Differential Equations"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Derivative  01",
+    "youtube": "https://www.youtube.com/watch?v=Z61U3KY9-_g",
+    "topics": [
+      "Foundations of Differentiation"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Derivative  02",
+    "youtube": "https://www.youtube.com/watch?v=2K3QTXv_-gw",
+    "topics": [
+      "Advanced Differentiation Techniques",
+      "Applications of Derivatives"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Derivative  03",
+    "youtube": "https://www.youtube.com/watch?v=1WB6C6Qceac",
+    "topics": [
+      "Advanced Differentiation Techniques",
+      "Higher Derivatives & Series Expansion",
+      "Applications of Derivatives"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Derivative  04",
+    "youtube": "https://www.youtube.com/live/M8Nxl2cEUZg",
+    "topics": [
+      "Higher Derivatives & Series Expansion",
+      "Applications of Derivatives",
+      "Partial Derivatives"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Function & Limit of Function 01",
+    "youtube": "https://www.youtube.com/embed/lOq_rDwKWPY",
+    "topics": [
+      "Types of Functions",
+      "Function Analysis & Graphs"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Function & Limit of Function 02",
+    "youtube": "https://www.youtube.com/embed/b5tWzegm_S8",
+    "topics": [
+      "Types of Functions",
+      "Function Analysis & Graphs",
+      "Limits, Continuity & Discontinuity"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Function & Limit of Function 03",
+    "youtube": "https://www.youtube.com/embed/Xh0RRhwhIxg",
+    "topics": [
+      "Types of Functions",
+      "Function Analysis & Graphs",
+      "Limits, Continuity & Discontinuity"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  },
+  {
+    "name": "Function & Limit of Function 04",
+    "youtube": "https://www.youtube.com/embed/OZHnv1tYms4",
+    "topics": [
+      "Types of Functions",
+      "Function Analysis & Graphs",
+      "Limits, Continuity & Discontinuity"
+    ],
+    "teacher": "Sir Hashim Zia",
+    "status": "completed"
+  }
+]
