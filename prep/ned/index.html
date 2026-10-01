@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#07111f">
+<title>Chaajao Prep — MCQ Practice</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand"><div class="brand-icon">C</div><div><strong>CHAAJAO</strong><span>PREP</span></div></div>
+    <div class="dataset"><b>348 tests loaded</b><span>149 Chapter • 191 Mock • 8 Grand</span></div>
+    <nav class="nav" aria-label="Test sections">
+      <button class="nav-btn active" data-section="chapter"><span>01</span>Chapter Tests</button>
+      <button class="nav-btn" data-section="mock"><span>02</span>Subject Mock Tests</button>
+      <button class="nav-btn" data-section="grand"><span>03</span>Grand Tests</button>
+    </nav>
+    <div class="side-footer">Offline-first • no account required<br>Your quiz progress is kept in this browser.</div>
+  </aside>
+  <main class="main">
+    <header class="topbar">
+      <button class="menu" id="menu">☰</button>
+      <div><div class="kicker">CHAAJAO PRACTICE ZONE</div><div class="crumb" id="crumb">Chapter Tests</div></div>
+      <div class="top-stat" id="topStat">149 tests</div>
+    </header>
+    <section id="screen" class="screen"></section>
+  </main>
+</div>
+<div id="quizLayer" class="quiz-layer hidden"></div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
